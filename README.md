@@ -1,7 +1,9 @@
-# Spannung messen mit Arduino
+# Reaktionszeit-Messgerät
 
-Ein Projekt zur Messung von analoger Spannung und Anzeige über die serielle Konsole.
+Ein einfaches Reaktionsspiel mit LED und Taster – misst die Zeit zwischen Lichtsignal und Knopfdruck.
 
 ## Komponenten
 - Arduino UNO
-- Potentiometer
+- LED
+- Taster
+
